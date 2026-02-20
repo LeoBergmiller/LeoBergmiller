@@ -1,16 +1,31 @@
-## Hi there 👋
+# Leo Bergmiller
 
-<!--
-**LeoBergmiller/LeoBergmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Data Science — Columbia University (Expected Dec 2026)
 
-Here are some ideas to get you started:
+I focus on machine learning systems, model training dynamics, and implementation of modern architectures from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### 🔹 Tiny Transformer From Scratch
+Implemented a causal self-attention Transformer in PyTorch for next-token prediction on Tiny Shakespeare.
+- Positional encoding
+- Multi-head self-attention
+- Causal masking
+- Residual connections
+- Perplexity evaluation
+- Attention heatmap visualization
+
+### 🔹 Boosting Models & Bias-Variance Study
+Compared Decision Trees, Gradient Boosting, and XGBoost.
+- Hyperparameter tuning
+- Learning curves
+- Bias-variance analysis
+- Feature importance
+- Precision-Recall evaluation
+
+---
+
+## Technical Stack
+Python • PyTorch • Scikit-learn • XGBoost • NumPy • Pandas • Matplotlib
